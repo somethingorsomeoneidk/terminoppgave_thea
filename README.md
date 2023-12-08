@@ -1,0 +1,2 @@
+# terminoppgave_thea
+terminoppgave
